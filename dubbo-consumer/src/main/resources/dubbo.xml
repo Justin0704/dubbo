@@ -11,7 +11,7 @@
     <dubbo:application name="dubbo-consumer"/>
 
     <!-- 使用zookeeper注册中心暴露服务地址 -->
-    <dubbo:registry address="zookeeper://47.98.113.136:2181"/>
+    <dubbo:registry address="zookeeper://127.0.0.1:2181"/>
 
     <dubbo:consumer check="false"/>
 

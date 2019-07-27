@@ -8,7 +8,7 @@ import java.io.UnsupportedEncodingException;
 
 public class ZkTest{
 
-    String url = "47.98.113.136:2181";
+    String url = "127.0.0.1:2181";
 
     ZooKeeper zooKeeper;
 
